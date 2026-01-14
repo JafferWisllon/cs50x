@@ -281,3 +281,29 @@ The goal is to help students think and reach solutions,
 not to provide ready-made answers.
 
 ---
+
+## 22. Algorithm Efficiency and Complexity (Intuitive Introduction)
+
+In computer science, it is not enough for an algorithm to simply work.
+It is also important to consider **how efficient** it is.
+
+Two algorithms may solve the same problem but require a very different
+number of steps to do so.
+
+Efficiency is often discussed in terms of:
+- how many steps an algorithm takes
+- how this number grows as the input size increases
+
+In Week 0, this idea is introduced intuitively, without formal notation.
+
+The key insight is:
+> As problems grow larger, inefficient algorithms can become impractical,
+> even if they work correctly for small inputs.
+
+This concept lays the foundation for later topics such as:
+- searching algorithms
+- sorting algorithms
+- Big-O notation (introduced in later weeks)
+
+Understanding efficiency early helps students think not only about
+*whether* a solution works, but also *how well* it scales.
